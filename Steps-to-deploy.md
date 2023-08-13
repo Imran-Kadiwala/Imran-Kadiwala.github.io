@@ -2,7 +2,7 @@
 
   - git clone
 
-  - cd chandrikadeb7.github.io
+  - cd Imran-Kadiwala.github.io
 
   - source ~/.nvm/nvm.sh
 
